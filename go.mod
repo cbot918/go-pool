@@ -1,3 +1,3 @@
-module gitlab.com/moond4rk/go-pool
+module "github.com/cbot918/go-pool"
 
 go 1.19
